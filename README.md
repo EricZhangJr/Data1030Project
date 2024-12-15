@@ -11,7 +11,7 @@ The work also includes cross-validation, hyperparameter tuning, and interpretabi
   - Stores all visualizations in EDA
 
 - `results/`
-  - Stores all models and evaluation metrics in `.pkl` files. Some `.pkl` files are too large to upload. To access to all results, please download `results.zip ` in the release page.
+  - Stores all models and evaluation metrics in `.pkl` files. Some `.pkl` files are too large to upload. To access to all results, please download `results.zip ` in the releases page.
 
 - `report/`
   - Final report
